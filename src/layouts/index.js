@@ -12,7 +12,7 @@ export {
 
 export default {
     contact,
-    home,
+    blog,
     page,
     post
 };
