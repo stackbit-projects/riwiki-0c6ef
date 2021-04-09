@@ -16,8 +16,8 @@
                 "style": "link"
             },
             {
-                "label": "Home",
-                "url": "/",
+                "label": "Blog",
+                "url": "/blog",
                 "style": "link"
             },
             {
