@@ -7,7 +7,7 @@ import Header from '../components/Header';
 import {getPages, Link, withPrefix} from '../utils';
 import Footer from '../components/Footer';
 
-export default class Blog extends React.Component {
+export default class blog extends React.Component {
     render() {
         let posts = getPages(this.props.pages, '/posts');
         let posts_count = _.size(posts);
