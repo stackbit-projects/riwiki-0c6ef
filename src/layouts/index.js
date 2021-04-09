@@ -5,7 +5,7 @@ import post from './post';
 
 export {
     contact,
-    blog,
+    Blog,
     page,
     post
 };
