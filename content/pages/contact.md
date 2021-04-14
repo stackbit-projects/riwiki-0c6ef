@@ -1,5 +1,5 @@
 ---
-title: Get in Touch 123
+title: Get in Touch 1234
 img_path: images/contact.jpg
 form_id: contactForm
 form_action: /success
